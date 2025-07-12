@@ -1,7 +1,0 @@
-*.in
-
-*.out
-
-*.pyc
-
-__pycache__/
